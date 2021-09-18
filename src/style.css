@@ -7,12 +7,29 @@ h1 {
   text-align: center;
 }
 
+h4 {
+  font-size: 16px;
+}
+
 footer {
   text-align: center;
   color: #e8f0f2;
   font-family: "Roboto", sans-serif;
   font-size: 13px;
   font-weight: 200;
+}
+
+.submit {
+  font-size: 12px;
+}
+
+.current {
+  margin-left: 10px;
+  font-size: 12px;
+}
+
+.card-text-day {
+  font-size: 13px;
 }
 
 .search-location {
@@ -42,9 +59,10 @@ footer {
 }
 
 .weather-card-text {
+  text-transform: capitalize;
   display: block;
   text-align: center;
-  padding: 40px 10px;
+  padding: 35px 10px;
   color: #e8f0f2;
   max-width: 450px;
   text-shadow: 1px 1px 1.5px grey;
