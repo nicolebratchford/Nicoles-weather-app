@@ -100,3 +100,11 @@ footer {
   padding: 5px;
   margin: 0;
 }
+
+.github {
+  text-align: center;
+  color: #e8f0f2;
+  font-family: "Roboto", sans-serif;
+  font-size: 13px;
+  font-weight: 200;
+}
